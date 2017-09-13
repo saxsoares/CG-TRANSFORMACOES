@@ -1,10 +1,11 @@
 # depslib dependency file v1.0
-1505098925 source:/mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Transformacoes/main.c
+1505316242 source:/mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Transformacoes/main.c
 	<stdio.h>
 	<stdlib.h>
 	<GL/glut.h>
+	<math.h>
 	"Transformacoes.h"
 
-1505099594 /mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Transformacoes/Transformacoes.h
+1505300576 /mnt/disco1/Google_Drive/UNIFESP/10-SEMESTRE/COMP-GRAFICA/CODIGOS-CG/CG-Transformacoes/Transformacoes.h
 	<GL/glut.h>
 
