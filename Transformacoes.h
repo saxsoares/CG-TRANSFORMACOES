@@ -2,6 +2,7 @@
 #define TRANSFORMACOES_H_INCLUDED
 #include <GL/glut.h>
 #define PI 3.14159265358
+
 extern GLfloat  preto[], branco[], verde[], vermelho[], azul[], amarelo[],
         furchsia[], rosa[], rosaBri[], abobora[], ciano[],
         verdeEsc[], azulEsc[], marinho[], fuligem[],
